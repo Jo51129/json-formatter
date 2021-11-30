@@ -1,0 +1,35 @@
+<p><span>The ArtiLink 300 is an easy-to-use diagnostic tool that offers advanced features for essential automobile work. The AL300 builds off the ArtiLink200 by introducing O2 Sensor Tests and a DTC Lookup Library, expanding your testing capabilities. The tests the AL300 runs will raise the value of your services.</span></p>
+<!-- split -->
+<h3><strong>FEATURES</strong></h3>
+<ul>
+<li>Effective entry-level code reader to help resolve basic car issues.</li>
+<li>Full modes of OBD2 diagnostics.</li>
+<li>Designed for most 1996 and newer vehicles (OBDII&amp; CAN).</li>
+<li>Compatible with protocols: CAN, ISO9141, KWP2000, J1859 PWM, J1859VPW.</li>
+<li>Read &amp; Clear Codes, turn off the check engine light.</li>
+<li>I/M Readiness Check, help pass smog tests.</li>
+<li>Freeze Frame Data Retrieval, view records in a malfunction.</li>
+<li>O2 Sensor Test, make the car fuel-efficient.</li>
+<li>Live Data, monitor and evaluate running conditions.</li>
+<li>DTC Lookup Library, request DTC definitions stored.</li>
+<li>Multilingual Menu (7): English, French, Japanese, German, Portuguese, Russian, Spanish.</li>
+<li>Unique Design, classic and solid design to withstand everyday shocks.</li>
+<li>Plug &amp; Play, no external battery required.</li>
+</ul>
+<h3><strong>Technical Specifications</strong><br></h3>
+<ul>
+<li>Display: 1.77 in Color Display</li>
+<li>Operating Voltage: 9~18V</li>
+<li>Storage Temperature: -20°C ~70°C (-4°F ~158°F)</li>
+<li>Working Temperature: 0°C ~50°C (32°F ~122°F)</li>
+<li>Dimensions: 119 * 71.7 * 23.3 mm (4.68 * 2.82 * 0.91 in)</li>
+<li>Length: 1050 mm (41.34 in)</li>
+<li>Product Weight: 210g (0.46 lb)</li>
+</ul>
+<h3><strong>Package List</strong><br></h3>
+<ul>
+<li>1* ArtiLink300 Code Reader</li>
+<li>1* Quick Start Guide</li>
+<li>1* User’s Manual</li>
+</ul>
+<p><a href="https://cdn.shopify.com/s/files/1/0073/5697/3144/files/ArtiLink_300_user_manual.pdf?v=1601502046" title="AL300 User Manual" target="_blank">AL300 User Manual</a></p>
